@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    padding: 0 2rem;
+
+    color: #fff;
+    background-color: #232323;
+    font-family: 'JetBrains Mono', Courier, monospace;
+}
+
+.top {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    width: 85vw;
+
+    background-color: seagreen;
+    border-radius: 5px;
+
+    margin-top: 2rem;
+    padding: 1.2rem;
+}
+
+.datos {
+    margin-left: 1rem;
+    padding: 1ch 2ch;
+    background-color: seagreen;
+    border-radius: 5px;
+    max-width: 43ch;
+}
+
+.separator {
+    height: 2px;
+    width: 90vw;
+    background-color: seagreen;
+    padding: 1px;
+    margin-top: 2rem;
+    align-items: center;
+}
+
+.links h2 {
+    color: lightseagreen;
+    margin-top: 2rem;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.links a:hover {
+    color: lightseagreen;
+    transition: 200ms;
+    text-decoration: underline;
+}
+
+li {
+    list-style: none;
+    margin-top: 1rem;
+}
+
+.json {
+    color: aquamarine;
+
+}
+
+.json h2 {
+    color: aquamarine;
+    margin-top: 2rem;
+}
+
+.json a:hover {
+    color: aquamarine;
+    transition: 200ms;
+    text-decoration: underline;
+}
+
+
+
+.footer {
+    margin-bottom: 8rem;
+}

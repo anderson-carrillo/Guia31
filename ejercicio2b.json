@@ -1,0 +1,30 @@
+﻿{
+	"pais":{
+		"@nombre":"El Salvador",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"Santa Ana",
+				"cabecera":"Santa Ana",
+				"habitantes":"1,200,000",
+				"altura":"745 MSNM",
+				"idioma":"Spanish"
+			},
+			{
+				"@id":"3",
+				"@nombre":"San Miguel",
+				"cabecera":"Santa Miguel",
+				"habitantes":"900,000",
+				"altura":"645 MSNM",
+				"idioma":"Spanish"
+			}
+		]
+	}
+}

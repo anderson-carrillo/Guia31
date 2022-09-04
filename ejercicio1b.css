@@ -1,0 +1,44 @@
+/* ejercicio1b.css   CM19138  */
+fichero {
+  background-color: aquamarine;
+}
+
+ficha {
+  background-color: seagreen; 
+  display: block;
+  padding: 5px 10px;
+  font-family: sans-serif;
+} 
+
+nombre {
+  color: white; 
+  font-size: 1.5rem; 
+  display: inline;
+} 
+
+apellido {
+  color: springgreen; 
+  font-size: 1.5rem; 
+  display: inline; 
+}
+
+direccion {
+  color: yellow;
+  display: inline;
+  padding-left: 2rem;
+}
+
+dui {
+  color: cyan;
+  padding-left: 2rem;
+}
+
+isss {
+  color: coral;
+  padding-left: 2rem;
+}
+
+afp {
+  color: greenyellow;
+  padding-left: 2rem;
+}

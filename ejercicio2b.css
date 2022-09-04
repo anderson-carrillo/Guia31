@@ -1,0 +1,34 @@
+/* ejercicio2b.css   CM19138  */
+pais {
+  background-color: steelblue;
+}
+
+departamento {
+  background-color: royalblue; 
+  font-family: monospace;  
+  font-size: 1.2rem;
+  display: block;
+  padding: 20px;
+} 
+
+cabecera {
+  color: white; 
+  display: inline;
+} 
+
+habitantes {
+  color: greenyellow; 
+  margin-left: 20px;
+  display: inline; 
+}
+
+altura {
+  color: coral;
+  margin-left: 20px;
+  display: inline;
+}
+
+idioma {
+  color: pink;
+  margin-left: 20px;
+}

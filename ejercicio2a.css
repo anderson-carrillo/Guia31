@@ -1,0 +1,28 @@
+/* ejercicio2a.css   CM19138  */
+pais {
+  background-color: mediumpurple;
+}
+
+departamento {
+  background-color: slateblue; 
+  font-family: sans-serif;
+  display: block;
+  padding: 20px;
+} 
+
+cabecera {
+  color: white; 
+  display: inline;
+} 
+
+habitantes {
+  color: violet; 
+  display: inline; 
+  padding-left: 20px;
+}
+
+altura {
+  color: yellow;
+  padding-left: 2rem; 
+  display: inline;
+}

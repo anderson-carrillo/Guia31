@@ -1,0 +1,26 @@
+/* ejemplo2.css   CM19138  */
+pais {
+  background-color: lightblue;
+}
+
+departamento {
+  background-color: slateblue; 
+  display: block;
+  padding: 20px;
+} 
+
+cabecera {
+  color: white; 
+  display: inline;
+} 
+
+habitantes {
+  color: yellow; 
+  display: inline; 
+}
+
+altura {
+  color: yellow;
+  font-size: 2cm; 
+  display:none;
+}
